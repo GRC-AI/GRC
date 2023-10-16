@@ -23,7 +23,7 @@ The GRC Dev Board provides functionality for simple sensors connection, on-the-f
 
 ## Functional Scheme
 
-![Functional Scheme](docs/media/DevBoard_Scheme.png)
+![Functional Scheme](media/DevBoard_Scheme.png)
 
 ## Interaction with GRC AI Module
 
@@ -41,9 +41,9 @@ The work of the neural network created for the AI tasks is run on the MCU using
   * Performance speed **less than 2 seconds**.​
 
 ## GRC Dev Board Concept Design
-![Dev Board Concept Design](docs/media/DevBoard_Concept_Design.png)
+![Dev Board Concept Design](media/DevBoard_Concept_Design.png)
 ## GRC Dev Board Description
-![DevBoard_Description](docs/media/DevBoard_Description.png)
+![DevBoard_Description](media/DevBoard_Description.png)
 ## Features:
 
 * GRC Dev Board is a multi-sensing module for implementing AI-driven solutions by adding Anomaly Detection and n-Class Classification functionality
