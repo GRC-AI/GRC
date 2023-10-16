@@ -23,7 +23,7 @@ The GRC Dev Board provides functionality for simple sensors connection, on-the-f
 
 ## Functional Scheme
 
-![Functional Scheme](media/DevBoard_Scheme.png){width=400 height=800}
+<img src="media/DevBoard_Scheme.png" width=50%>
 
 ## Interaction with GRC AI Module
 
@@ -97,7 +97,7 @@ The work of the neural network created for the AI tasks is run on the MCU using
 * Learning command words
 
 ## Scheme of Warm-Up Mode
-![Scheme_of_Warm-Up_Mode](media/Scheme_of_Warm-Up_Mode.png)
+<img src="media/Scheme_of_Warm-Up_Mode.png" width=50%>
 
 ## Benefits:
 * Quick step into prototyping AI-enhanced solutions
