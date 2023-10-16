@@ -4,25 +4,25 @@
 
 ### GRC Dev Board
 
-<img src="">
+<img src="media/DevBoard_Concept_Design.png">
 
 ### 2 PIN Battery connector with cables
 
-<img src="">
+<img src="media/cable1.png">
 
 ### USB-C 2m Cable
 
-<img src="">
+<img src="media/usb cable.jpg">
 
 Note: an OLED display is an optional component, therefore, it will not be delivered unless specifically requested.
 
 ## Connect Power Supply
 
-<img src="">
+<img src="media/board usb.png">
 
 OR
 
-<img src="">
+<img src="media/board power.jpg">
 
 ## What is inside?
 
@@ -37,24 +37,26 @@ The **Warm-Up** mode allows to easily get acquainted with the Dev Board and to s
 
 * **RESET** for re-starting
 * **USER** for control commands
-<img src="">
+<img src="media/buttons.png">
 
 The USER button has three possible uses:
-	* **Press**: to switch between menu items
-	* **Press and hold**: to select the menuitem displayed on the screen
-	* **Press, hold and release**: when learning or reading a gesture
+* **Press**: to switch between menu items
+* **Press and hold**: to select the menu item displayed on the screen
+* **Press, hold and release**: when learning or reading a gesture
 
 ## Voice commands
 
 Manage the Dev Board by giving voice commands.
+
 **Example A**: say "**1**" to select and enter the first menu item displayed on a screen.
+
 **Example B**: say "**GO**" to start the gesture learning process and "**STOP**" to finish it.
 
 The list of the command words is given in Appendix A.
 
 ## Warm-Up
 1. Enter the Warm-Up mode.
-2. Select operation “Read: Hi” and show the **Hi** gesture. <img src="" align="right">
+2. Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hi_gesture.png" align="right">
 3. If the gesture is correct, then the name of the gesture will be in both voice and screen messages.
 4. Try again with **Bye-bye** gesture
 
@@ -77,11 +79,4 @@ GREAT! You are ready for the main mode!
 | STOP |​ Stopping a procedure (learning, reading)​ |
 | YES​ | Confirming action (for saving, deleting, overwriting)​ |
 | NO​ | Cancelling action (for saving, deleting, overwriting)​ |
-| 1/2/3/4/5 | Selecting the Nth element on the list or menu​ |
-
-
-
-
-
-
-
+| 1/2/3/4/5 | Selecting the Nth element on the list or menu​ |se
