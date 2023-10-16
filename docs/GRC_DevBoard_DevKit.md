@@ -23,7 +23,7 @@ The GRC Dev Board provides functionality for simple sensors connection, on-the-f
 
 ## Functional Scheme
 
-![Functional Scheme](media/DevBoard_Scheme.png)
+![Functional Scheme](media/DevBoard_Scheme.png){width=400 height=800}
 
 ## Interaction with GRC AI Module
 
@@ -97,7 +97,7 @@ The work of the neural network created for the AI tasks is run on the MCU using
 * Learning command words
 
 ## Scheme of Warm-Up Mode
-![Scheme_of_Warm-Up_Mode](docs/media/Scheme_of_Warm-Up_Mode.png)
+![Scheme_of_Warm-Up_Mode](media/Scheme_of_Warm-Up_Mode.png)
 
 ## Benefits:
 * Quick step into prototyping AI-enhanced solutions
@@ -137,6 +137,7 @@ Please refer to Developer's Guide for detailed technical characteristics.
 
 ## CONTACT US:
 grc@grovety.com
+
 https://grovety.com 
 
 
