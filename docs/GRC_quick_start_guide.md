@@ -61,17 +61,17 @@ Enter the Warm-Up mode.
 Step 1. Learn to repeat pre-trained hand gestures.
 * Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hi_gesture.png" align="right">
 * If the gesture is correct, then the name of the gesture will be in voice and screen messages.
-* Try again with the *OK* gesture
+* Try again with the **OK** gesture
 
 GOOD JOB! Let’s make it more challenging.
 
 Step 2. Learn training and classification of simple hand gestures.
 
 * Select operation “Train: Come here”.
-* Start the training process and show the *Come here* gesture.
+* Start the training process and show the **Come here** gesture.
 * Show it again to see if it is properly trained.
 * If the gesture is correct, then the name of the gesture will be in voice and screen messages.
-* Try again with the *Number 8* gesture
+* Try again with the **Number 8** gesture
 
 Step 3. Training and classification of any short rhythms.
 * Select operation “Train: rhythm”.
