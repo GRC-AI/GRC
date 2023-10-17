@@ -1,5 +1,5 @@
-# On-Device Learning on GRCTM AI Module
-<img src="media/chip.png" width=200px align="left">
+# On-Device Learning on GRC AI Module
+<img src="media/chip.png" width=100px align="left">
 
 ## Purpose:
 Add AI functionality to a target device by embedding a chip with the pre-installed firmware.
@@ -28,17 +28,18 @@ GRC AI Module is designed as a firmware solution for **ESP32-C3** incorporating 
 GRC AI Module is an innovative and user-friendly solution for **introducing** AI functionality to your products in **effortless** and **time-efficient** manner.
 AI-based data processing offers a more flexible and powerful approach to analyzing and making decisions from large data collection. Machine learning algorithms autonomously learn patterns and relationships from the **time series data flow**.
 
-The GRCTM AI Module is
+The GRC AI Module is
 * A pre-installed firmware with neural network based on the next generation Reservoir Computing machine learning approach. It provides anomaly detection and classification of input signals in accordance with the pre-trained data.
 * Intended for the use on ESP32 C3 FN4/H4 MCU, an optimal choice for AI-related scenarios and Artificial Intelligence of Things (AIoT) due to the acceleration for neural network computing and signal processing workloads provided by the SoC.
 
-## 4 steps to get AI-driven solution without extra expenses:
-<img src="media/stairway.png" width=400px>
+## 4 steps to get AI-driven solution without extra expenses
+<img src="media/stairway.png" width=600px>
 
-Dev Board GRCTM serves best for developing PoC, MVP, and prototypes. **See Datasheet**. 
+Dev Board GRC serves best for developing PoC, MVP, and prototypes. **See Datasheet**. 
 
-## Perks of using GRCTM AI Module:
-<img src="media/DevBoard_Scheme.png" align="right" width="200">
+## Perks of using GRC AI Module:
+<img src="media/DevBoard_Scheme.png" align="right" width=40%>
+
 * Saving time and resources at the development stage, as there is no need in
 	* Development of mathematical and statistical anomaly models
 	* Signal mapping and dataset preparation;
@@ -51,7 +52,7 @@ Dev Board GRCTM serves best for developing PoC, MVP, and prototypes. **See Datas
 * Privacy and security are guaranteed as there is no need in transferring sensor signal from the target device to a server
 * Vast potential of developing flexible solutions configurable to particular hardware.
 
-##Recommended sensors:
+## Recommended sensors:
 * Vibrations sensors
 * Current sensors
 * Accelerometers
@@ -84,7 +85,7 @@ Output:
 * Save resources and development cost,
 * Reach the highest performance with the ready optimized model
 
-<img src="media/table_ai_chip.png">
+<img src="media/table_ai_chip.png" width=600px>
 
 ## Contacts
 
