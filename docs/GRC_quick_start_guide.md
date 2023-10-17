@@ -4,7 +4,7 @@
 
 ### GRC Dev Board
 
-<img src="media/DevBoard_Concept_Design.png">
+<img src="media/buttons.jpg" width="490">
 
 ### 2 PIN Battery connector with cables
 
@@ -37,7 +37,6 @@ The **Warm-Up** mode allows to easily get acquainted with the Dev Board and to s
 
 * **RESET** for re-starting
 * **USER** for control commands
-<img src="media/buttons.jpg">
 
 The USER button has three possible uses:
 * **Press**: to switch between menu items
