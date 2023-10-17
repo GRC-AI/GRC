@@ -59,9 +59,9 @@ The list of the command words is given in Appendix A.
 Enter the Warm-Up mode.
 
 Step 1. Learn to repeat pre-trained hand gestures.
-* Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hi_gesture.png" align="right">
+* Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hand (2).gif" align="right">
 * If the gesture is correct, then the name of the gesture will be in voice and screen messages.
-* Try again with the **OK** gesture
+* Try again with the **OK** gesture <img src="media/hand3.gif" align="right">
 
 GOOD JOB! Let’s make it more challenging.
 
