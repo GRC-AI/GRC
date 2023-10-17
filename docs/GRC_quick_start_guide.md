@@ -55,21 +55,32 @@ Manage the Dev Board by giving voice commands.
 The list of the command words is given in Appendix A.
 
 ## Warm-Up
-1. Enter the Warm-Up mode.
-2. Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hi_gesture.png" align="right">
-3. If the gesture is correct, then the name of the gesture will be in both voice and screen messages.
-4. Try again with **Bye-bye** gesture
 
-GOOD JOB! Let’s make it more challenging
+Enter the Warm-Up mode.
 
-1. Enter the Warm-Up mode.
-2. Select operation “Learn: Come here”.
-3. Start the learning process and show the **Come here** gesture.
-4. Now show it again to see if it is properly learned.
-5. If the gesture is correct, then the name of the gesture will be in both voice and screen messages.
-6. Try again with **Number 8** gesture
+Step 1. Learn to repeat pre-trained hand gestures.
+* Select operation “Read: Hi” and show the **Hi** gesture. <img src="media/hi_gesture.png" align="right">
+* If the gesture is correct, then the name of the gesture will be in voice and screen messages.
+* Try again with the *OK* gesture
 
-GREAT! You are ready for the main mode!
+GOOD JOB! Let’s make it more challenging.
+
+Step 2. Learn training and classification of simple hand gestures.
+
+* Select operation “Train: Come here”.
+* Start the training process and show the *Come here* gesture.
+* Show it again to see if it is properly trained.
+* If the gesture is correct, then the name of the gesture will be in voice and screen messages.
+* Try again with the *Number 8* gesture
+
+Step 3. Training and classification of any short rhythms.
+* Select operation “Train: rhythm”.
+* Start the training process.
+* Do it again.
+* If the gesture is correct, OK will be in voice and screen messages.
+ 
+GREAT! You are ready for the Main mode!
+
 
 ## Appendix A
 
