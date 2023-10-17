@@ -36,7 +36,7 @@ The work of the neural network created for the AI tasks is run on the MCU using
   * Autonomously;​
   * Performance speed **less than 2 seconds**;​
   * No dataset and data mapping is required.​
-* “Classification” mode:​
+* **“Classification”** mode:​
   * Up to 10 categories including anomaly;​
   * Performance speed **less than 2 seconds**.​
 
