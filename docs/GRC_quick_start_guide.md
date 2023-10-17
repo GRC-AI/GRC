@@ -1,5 +1,5 @@
 # GRC ESP 32 Dev Board Quick Start
-
+ 
 ## In the Box
 
 ### GRC Dev Board
