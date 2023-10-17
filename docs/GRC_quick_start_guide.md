@@ -75,10 +75,11 @@ Step 2. Learn training and classification of simple hand gestures.
 * Try again with the **Number 8** gesture
 
 Step 3. Training and classification of any short rhythms.
+* Place the Dev Board on the table. Tap the rhythm with a finger nearby.
 * Select operation “Train: rhythm”.
 * Start the training process.
 * Do it again.
-* If the gesture is correct, OK will be in voice and screen messages.
+* If the rhythm is correct, OK will be in voice and screen messages.
  
 GREAT! You are ready for the Main mode!
 
